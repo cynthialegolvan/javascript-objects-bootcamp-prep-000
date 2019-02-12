@@ -1,1 +1,1 @@
-var playlist = {alesso: 'let me go'};
+var playlist = {alesso: "let me go"};
