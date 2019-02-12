@@ -1,1 +1,1 @@
-var playlist = {Rob Bailey:};
+var playlist = {:};
